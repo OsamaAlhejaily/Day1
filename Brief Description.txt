@@ -1,0 +1,7 @@
+Landing Page Overview
+Structure:
+Header: Displays landing Page with a black background and navigation links (Home, About, Contact).
+Form: A centered gray box with fields for Name, Email, Phone Number, and Password, with a Submit button.
+Footer: Displays copyright information.
+Functionality:
+The form collects user input.
